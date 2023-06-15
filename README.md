@@ -35,5 +35,5 @@
 <h3 align="left">Version Control:</h3>
 <p align="left">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="mysql" width="45" height="55"/>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="mysql" width="55" height="55"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="mysql" width="50" height="50"/>
  </p>
